@@ -59,7 +59,7 @@ img.emoji {
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164243197-1"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-170834333-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -71,19 +71,19 @@ img.emoji {
 	
 <!-- Facebook Pixel Code -->
 <script>
-!function(f,b,e,v,n,t,s)
-{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];
-s.parentNode.insertBefore(t,s)}(window, document,'script',
-'https://connect.facebook.net/en_US/fbevents.js');
-fbq('init', '1140134106323041');
-fbq('track', 'PageView');
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1140134106323041');
+  fbq('track', 'PageView');
 </script>
 <noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=1140134106323041&ev=PageView&noscript=1"
+  src="https://www.facebook.com/tr?id=1140134106323041&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 	
@@ -186,7 +186,7 @@ src="https://www.facebook.com/tr?id=1140134106323041&ev=PageView&noscript=1"
             </article>
             <article id="step2" class="questionStep clearfix" data-step="2">
                <h3>A ESCOLHA É SUA!</h3>
-               &nbsp<h6>Você está disposta a seguir um <b>passo a passo para Rejuvenescer</b>?</h6>
+               &nbsp<h6>VOCÊ SE COMPROMETE QUE <b>QUER REALMENTE REJUVENESCER</b>?</h6>
                <button class="stepButton yesBtn s2" data-step="2" href="" data-swap="">SIM</button>
                <button class="stepButton noBtn s2" data-step="2" href="" data-swap="">NÃO</button>
             </article>
@@ -209,7 +209,7 @@ src="https://www.facebook.com/tr?id=1140134106323041&ev=PageView&noscript=1"
                   </h4>
                </header>               
                <!-- Link da Página de Vendas -->
-               <button id="surveyAgree" class="stepButton yesBtn link-pv" href="https://revicta.com.br" style="padding: 30px 10 50px 0;">ACESSAR AGORA!</button>
+               <button id="surveyAgree" class="stepButton yesBtn link-pv" href="https://app.monetizze.com.br/r/BNV938139" style="padding: 30px 10 50px 0;">ACESSAR AGORA!</button>
                <!-- Link da Página de Vendas -->
             
             </article>
@@ -270,7 +270,7 @@ src="https://www.facebook.com/tr?id=1140134106323041&ev=PageView&noscript=1"
 				<div class="elementor-widget-container">
 			<script>
     $(function(){
-        var linkCheckout = 'https://revicta.com.br';
+        var linkCheckout = 'https://app.monetizze.com.br/r/BNV938139';
         
         var url_string = window.location.href;
         var urlparams = new URL(url_string);
